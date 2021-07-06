@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arthur.pierre.bernard@gmail.com
+	name = arthur bernard
